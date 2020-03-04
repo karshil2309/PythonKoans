@@ -1,0 +1,12 @@
+Python commands:-
+
+------------
+1) For Compiling python file:-
+>>> import py_compile
+>>> py_compile.compile('name.py')
+>>> python -m py_compile name_of_file.py
+>>> python -m compileall 
+>>> chmod +x[755] name.py
+
+2) Study Pythagorean triples
+3) Ask About_exceptions.py in koans for the first function
